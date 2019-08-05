@@ -1,0 +1,1 @@
+{"version":3,"file":"landing.schema.js","sourceRoot":"","sources":["../../../src/landing/schemas/landing.schema.ts"],"names":[],"mappings":";;AAAA,qCAAqC;AACxB,QAAA,aAAa,GAAG,IAAI,QAAQ,CAAC,MAAM,CAAC;IAC7C,GAAG,EAAC,MAAM;IACV,IAAI,EAAE,MAAM;IACZ,KAAK,EAAE,MAAM;IACb,KAAK,EAAE,MAAM;CAChB,CAAC,CAAC"}

@@ -1,0 +1,18 @@
+# dependencies
+/**/node_modules
+npm-debug.log
+
+# IDE
+/.idea
+/.awcache
+/.vscode
+
+# mi
+lerna-debug.log
+
+# tests
+/coverage
+/.nyc_output
+
+# dist
+packages/**/lib
